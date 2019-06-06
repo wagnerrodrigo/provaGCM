@@ -1,0 +1,137 @@
+commit deb9d3210cc5a2e02fe88c40aa344e1f6fa373f7
+Author: wagner rodrigo da silva <wagnerrodrigo.pan@gmail.com>
+Date:   Thu Jun 6 20:51:17 2019 -0300
+
+    questao 4
+
+commit 1d096483c61d42c51e4ce9e4bdb89ada66035fcf
+Author: wagner rodrigo da silva <wagnerrodrigo.pan@gmail.com>
+Date:   Thu Jun 6 20:46:20 2019 -0300
+
+    log 3 txt
+
+commit 7dab81137177167981a0959099e9d76bc1ab7f3c
+Author: wagner rodrigo da silva <wagnerrodrigo.pan@gmail.com>
+Date:   Thu Jun 6 20:44:30 2019 -0300
+
+    sprint finalizado
+
+commit 701035b7f529266db83bc070405dfec47efd2086
+Author: wagner rodrigo da silva <wagnerrodrigo.pan@gmail.com>
+Date:   Thu Jun 6 20:44:07 2019 -0300
+
+     relatorio da sprint 3
+
+commit 5a71766a534c2156ae2c0e1fcc6b9d8bae8fe271
+Author: wagner rodrigo da silva <wagnerrodrigo.pan@gmail.com>
+Date:   Thu Jun 6 20:43:47 2019 -0300
+
+    sprint em andamento
+
+commit 04b0749ccff5f7fd176686f050a9f26372de7fcf
+Author: wagner rodrigo da silva <wagnerrodrigo.pan@gmail.com>
+Date:   Thu Jun 6 20:43:17 2019 -0300
+
+    inico do backlog
+
+commit c0f6b970e8f964a844874ca368dc3b9d1e2992a6
+Author: wagner rodrigo da silva <wagnerrodrigo.pan@gmail.com>
+Date:   Thu Jun 6 20:42:55 2019 -0300
+
+    inicio da sprint 3
+
+commit 1fc7e097090e7acd67745cfc0f6b505aec952775
+Author: wagner rodrigo da silva <wagnerrodrigo.pan@gmail.com>
+Date:   Thu Jun 6 20:34:23 2019 -0300
+
+    questao3 add foto aluno
+
+commit 9b5738025e6557b2b4ed3d2656d49307a345563c
+Author: wagner rodrigo da silva <wagnerrodrigo.pan@gmail.com>
+Date:   Thu Jun 6 20:25:41 2019 -0300
+
+    img questao3
+
+commit c3b9fc6bf53e3b2808ad9c390b036a4cb4bbe814
+Author: wagner rodrigo da silva <wagnerrodrigo.pan@gmail.com>
+Date:   Thu Jun 6 20:20:35 2019 -0300
+
+    log da questao2
+
+commit 8a2088b3b97a006f6351043f6ab46794762add32
+Author: wagner rodrigo da silva <wagnerrodrigo.pan@gmail.com>
+Date:   Thu Jun 6 20:18:42 2019 -0300
+
+    relatorio da sprint
+
+commit faf58d0c5aba5d2ce9eead6dc07d816c76b8d77e
+Author: wagner rodrigo da silva <wagnerrodrigo.pan@gmail.com>
+Date:   Thu Jun 6 20:18:20 2019 -0300
+
+    finalizando o quadro
+
+commit a5db2fb30f1db7fcdcef2a33780a18fdab1ef57d
+Author: wagner rodrigo da silva <wagnerrodrigo.pan@gmail.com>
+Date:   Thu Jun 6 20:17:33 2019 -0300
+
+    sprint finalizado
+
+commit 9b2dd20c3d0de976f402e143b4588583fc76f069
+Author: wagner rodrigo da silva <wagnerrodrigo.pan@gmail.com>
+Date:   Thu Jun 6 20:17:12 2019 -0300
+
+    sprinte em andamento
+
+commit ff97b2353136f86ccf203e7905fcf3e6c38f50e4
+Author: wagner rodrigo da silva <wagnerrodrigo.pan@gmail.com>
+Date:   Thu Jun 6 20:16:46 2019 -0300
+
+    sprint em desenvolvimento
+
+commit 36a503d0259d505a10bfd6780d2e136db4071008
+Author: wagner rodrigo da silva <wagnerrodrigo.pan@gmail.com>
+Date:   Thu Jun 6 20:16:09 2019 -0300
+
+    inicio da sprint
+
+commit 180e223384b37472d8babdc61d384ab89d70c66a
+Author: wagner rodrigo da silva <wagnerrodrigo.pan@gmail.com>
+Date:   Thu Jun 6 20:09:30 2019 -0300
+
+    img backlog Sprint
+
+commit b3369f8c0d04cbd9e6cb6ab763ff2f1c9a6505be
+Author: wagner rodrigo da silva <wagnerrodrigo.pan@gmail.com>
+Date:   Thu Jun 6 19:57:54 2019 -0300
+
+    img bugtracker
+
+commit 505bfc3ce9d3caae00665b2285e815e13429b6ee
+Author: wagner rodrigo da silva <wagnerrodrigo.pan@gmail.com>
+Date:   Thu Jun 6 19:44:49 2019 -0300
+
+    add data atual e numero da questao
+
+commit fc7ae09a881d9a6a5e6cff988408f4f168290791
+Author: wagner rodrigo da silva <wagnerrodrigo.pan@gmail.com>
+Date:   Thu Jun 6 19:42:14 2019 -0300
+
+    materia e periodo
+
+commit 716baa8f3e69c4bb65fa86fa670b3d860510810b
+Author: wagner rodrigo da silva <wagnerrodrigo.pan@gmail.com>
+Date:   Thu Jun 6 19:38:45 2019 -0300
+
+    add nome da instituição
+
+commit 04e50098d892d6ee998635fe807fe834ddfb061b
+Author: wagner rodrigo da silva <wagnerrodrigo.pan@gmail.com>
+Date:   Thu Jun 6 19:37:24 2019 -0300
+
+    add nome no formulario
+
+commit e07ef1ddcea425401d8ea39dab3940a85b980fe8
+Author: Aluno CESJF <alunoces@labcesac.net>
+Date:   Thu Jun 6 19:31:46 2019 -0300
+
+    inicio do prova
